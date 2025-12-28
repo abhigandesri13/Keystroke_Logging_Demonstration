@@ -62,6 +62,14 @@ Keystroke-Logging-Demonstration/
 
 ---
 
+## **Internship Information**
+This project was developed as part of a **Cybersecurity Internship** conducted by **Edunet Foundation** under the **VOIS for Tech Program**, supported by **AICTE**.
+
+**Internship Duration:** December 2025 – January 2026  
+**Internship Mode:** Project-based learning with mentor guidance  
+
+The project was completed for academic and learning purposes in compliance with internship guidelines and ethical standards.
+
 
 ## **Author**
 
@@ -69,5 +77,3 @@ Keystroke-Logging-Demonstration/
 CyberSecurity Intern
 
 ---
-
-Just tell me.
